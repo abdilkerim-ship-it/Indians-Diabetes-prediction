@@ -8,7 +8,7 @@ This project idea is taken from Kaggle database posted by UCI MACHINE LEARNING h
 - [Rediet Million](https://github.com/orgs/EPHI-training/people/RedietMillion)
 - [Nahom Alemseged](https://github.com/orgs/EPHI-training/people/NahomAlemseged)
 - [Anwar Taju](https://github.com/orgs/EPHI-training/people/AnwarTaju) 
-- [Abdilkerim T](https://github.com/abdilkerim-ship-it) 
+- [Abdilkerim Sultane](https://github.com/abdilkerim-ship-it) 
 - [Kemal Sherefa](https://github.com/KemalSherefa) 
 
 
